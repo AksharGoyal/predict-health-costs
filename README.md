@@ -1,4 +1,4 @@
-# predict-health-costs
+# Predict Health Costs
 ## Used simple Machine Learning to predict health costs
 
 As part of freeCodeCamp's Machine Learning with Python, I had to work on the project "Linear Regression Health Costs Calculator". I used a simple Tensorflow regression model (with EarlyStopping to reduce overfitting) to predict healthcare costs. It was a fun project where I calculated various insights.
